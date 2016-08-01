@@ -1,3 +1,6 @@
 # IDEA Files
 .idea/
 *.iml
+
+/lesson3-bigForm1-polymer/bower_components/
+/lesson3-bigForm1-polymer/node_modules/
